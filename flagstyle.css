@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #container{
     height: 200px;
     width: 300px;
@@ -26,35 +26,4 @@
     border-top: 75px solid transparent;
     border-bottom: 75px solid transparent;
     border-left: 150px solid black;
-
-=======
-#container{
-    height: 200px;
-    width: 300px;
-}
-
-.blue{
-    background-color: #00A9CE;
-    height: 200px;  
-}
-
-.yellow{
-    background-color: #FDDA25;
-    height: 66px;
-    position: relative;
-    top: 66px;
-}
-
-.triangle-right{
-    background-color: #000000;
-    height: 0px;
-    width: 0px;
-    position: absolute;
-    top: 7px;
-    border-right: 0px;
-    border-top: 75px solid transparent;
-    border-bottom: 75px solid transparent;
-    border-left: 150px solid black;
-
->>>>>>> f3cfbf00aa91363e1ad1e0d63dde0a7632b96339
 }
